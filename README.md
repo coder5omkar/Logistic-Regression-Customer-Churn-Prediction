@@ -60,7 +60,7 @@ analysis and predictions.
 
 Developed as part of the ML-1 Module assignment required for Post Graduate Diploma in Machine Learning and AI - IIIT,Bangalore.
 
-This project is open source and available under the [MIT License](https://github.com/coder5omkar/Simple-Linear-Regression/blob/master/licence.txt).
+This project is open source and available under the [MIT License](https://github.com/coder5omkar/Logistic-Regression-Customer-Churn-Prediction/blob/master/licence.txt).
 
 
 ## Contact
