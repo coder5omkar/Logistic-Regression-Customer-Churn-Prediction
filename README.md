@@ -49,7 +49,7 @@ analysis and predictions.
 
 3. Open the notebook:
    ```bash
-   jupyter notebook LGR.ipynb
+   jupyter notebook LRG.ipynb
    ```
 
 ---
